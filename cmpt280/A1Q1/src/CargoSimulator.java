@@ -73,7 +73,7 @@ public class CargoSimulator {
         CargoSimulator sim = new CargoSimulator(1000);
 
         // TODO: Print out how many sacks of wheat each ship is carrying.
-
+        System.out.println(sim.toString());
         // TODO: Print out a message for each ship that is overloaded.
 
    }
