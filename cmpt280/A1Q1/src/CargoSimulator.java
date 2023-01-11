@@ -1,4 +1,3 @@
-import lib280.list.LinkedList280;
 import java.util.Random;
 
 public class CargoSimulator {

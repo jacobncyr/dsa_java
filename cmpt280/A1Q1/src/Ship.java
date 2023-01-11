@@ -1,5 +1,3 @@
-import lib280.list.LinkedList280;
-
 public class Ship {
 
     // These are the name of the ships in Tractor Jack's fleet.  This is used ot initialize data for the assignemnt.
